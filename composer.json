@@ -1,0 +1,15 @@
+{
+  "name": "magenifest/instock_notifier",
+  "type": "magento-module",
+  "homepage": "https://github.com/magenifest/instock_notifier",
+  "description":"Notify customer when products become in stock",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/magento-hackathon/magento-composer-installer.git"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
